@@ -1,4 +1,4 @@
-
+## Temas tratados en el Curso Frontend Developer | Platzi
 - ¿Qué es HTML y CSS? ¿Para qué sirven?
 - Motores de render de archivos a píxeles
 - Maquetación con HTMLAnatomía de un documento - HTML y sus elementos
